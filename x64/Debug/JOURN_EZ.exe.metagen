@@ -1,0 +1,79 @@
+  JOURNEZ.dashboard.resources - Embedded, ContainedInManifestFile, 
+  JOURNEZ.HOME.resources - Embedded, ContainedInManifestFile, 
+  JOURNEZ.LOCATION.resources - Embedded, ContainedInManifestFile, 
+  JOURNEZ.reception.resources - Embedded, ContainedInManifestFile, 
+  JOURNEZ.SEAT_PAYMENT.resources - Embedded, ContainedInManifestFile, 
+  JOURNEZ.SIGNUP.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly JOURN_EZ, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class JOURNEZ.dashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 noofrec : Public
+    System.String name : Public, Static
+  Methods:
+    setname(String): PrivateScope, Public, HideBySig
+    convertTonet(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    convertTostd(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+    properties(String): PrivateScope, Public, HideBySig
+    reverse(Form): PrivateScope, Public, HideBySig
+Class JOURNEZ.reception: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    convertTostd(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+    setdate(String): PrivateScope, Public, HideBySig
+    sethome(Form): PrivateScope, Public, HideBySig
+    setreceipt(String, String, String): PrivateScope, Public, HideBySig
+    setproperties(String, String, String, String, String): PrivateScope, Public, HideBySig
+Class JOURNEZ.SEAT_PAYMENT: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    convertTonet(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    converttostd(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+    showprice(): PrivateScope, Public, HideBySig
+    setprice(Int32, Int32): PrivateScope, Public, HideBySig
+    settime(String): PrivateScope, Public, HideBySig
+    setdate(String): PrivateScope, Public, HideBySig
+    sethome(Form): PrivateScope, Public, HideBySig
+    setdest(String): PrivateScope, Public, HideBySig
+    setcurr(String): PrivateScope, Public, HideBySig
+    setproperties(String, String, String): PrivateScope, Public, HideBySig
+Class JOURNEZ.LOCATION: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setproperties(String, String, String): PrivateScope, Public, HideBySig
+Class JOURNEZ.HOME: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String name : Public
+    System.String phone_no : Public
+    System.String Email : Public
+  Methods:
+    setproperties(String, String, String): PrivateScope, Public, HideBySig
+    properties(String): PrivateScope, Public, HideBySig
+    SaveTextFile(String): PrivateScope, Public, HideBySig
+    loadtextfromfile(String): PrivateScope, Public, HideBySig
+Class JOURNEZ.SIGNUP: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    convertTostd(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+    convertTonet(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig

@@ -1,0 +1,60 @@
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURN_EZ.exe
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+F:\VS\repos\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+C:\Users\SNA\Desktop\New Folder\x64\Debug\JOURN_EZ.exe
+F:\oop project\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+F:\oop project\x64\Debug\JOURNEZ.HOME.resources
+F:\oop project\x64\Debug\JOURNEZ.LOCATION.resources
+F:\oop project\x64\Debug\JOURNEZ.reception.resources
+F:\oop project\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+F:\oop project\x64\Debug\JOURNEZ.SIGNUP.resources
+F:\oop project\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+F:\oop project\x64\Debug\JOURN_EZ.exe
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.dashboard.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.reception.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+C:\Users\DELL\Downloads\oop project\x64\Debug\JOURN_EZ.exe
+E:\oop project\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+E:\oop project\x64\Debug\JOURNEZ.dashboard.resources
+E:\oop project\x64\Debug\JOURNEZ.HOME.resources
+E:\oop project\x64\Debug\JOURNEZ.LOCATION.resources
+E:\oop project\x64\Debug\JOURNEZ.reception.resources
+E:\oop project\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+E:\oop project\x64\Debug\JOURNEZ.SIGNUP.resources
+E:\oop project\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+E:\oop project\x64\Debug\JOURN_EZ.exe
+F:\PROJECT\oop project\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.dashboard.resources
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.HOME.resources
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.LOCATION.resources
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.reception.resources
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+F:\PROJECT\oop project\x64\Debug\JOURNEZ.SIGNUP.resources
+F:\PROJECT\oop project\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+F:\PROJECT\oop project\x64\Debug\JOURN_EZ.exe
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.dashboard.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.HOME.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.LOCATION.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.reception.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+F:\New Folder\Final-Journ-EZ\x64\Debug\JOURN_EZ.exe

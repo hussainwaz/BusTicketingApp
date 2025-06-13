@@ -1,0 +1,40 @@
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+C:\Users\SparkleS\source\repos\oop project\JOURN_EZ\x64\Debug\JOURNEZ.dashboard.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.dashboard.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\SparkleS\source\repos\Final-Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.dashboard.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.dashboard.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+C:\Users\SparkleS\source\repos\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.AssemblyReference.cache
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.dashboard.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.HOME.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.LOCATION.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.reception.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SEAT_PAYMENT.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURNEZ.SIGNUP.resources
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\JOURN_EZ\x64\Debug\JOURN_EZ.vcxproj.GenerateResource.cache

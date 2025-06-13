@@ -1,0 +1,53 @@
+﻿  dashboard.cpp
+  HOME.cpp
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(67,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'HOME.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(71,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'HOME.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(1423,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'HOME.cpp')
+  
+  LOCATION.cpp
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(67,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'LOCATION.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(71,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'LOCATION.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(1423,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'LOCATION.cpp')
+  
+  reception.cpp
+  SEAT_PAYMENT.cpp
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(67,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SEAT_PAYMENT.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(71,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SEAT_PAYMENT.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(1423,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SEAT_PAYMENT.cpp')
+  
+  SIGNUP.cpp
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(67,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SIGNUP.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(71,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SIGNUP.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SEAT_PAYMENT.h(1423,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SIGNUP.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SIGNUP.h(450,20): warning C4129: '.': unrecognized character escape sequence
+  (compiling source file 'SIGNUP.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SIGNUP.h(516,20): warning C4129: '.': unrecognized character escape sequence
+  (compiling source file 'SIGNUP.cpp')
+  
+D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\SIGNUP.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  JOURN_EZ.vcxproj -> D:\Semester 2\Journ-EZ final\Journ-EZ\Journ-EZ\x64\Debug\JOURN_EZ.exe
